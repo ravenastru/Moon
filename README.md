@@ -48,9 +48,6 @@ This four-state gravity cycle is essentially the daily expression of the density
 It gives a lived, hour-by-hour way to feel the same ladder that the vertical taxonomy describes at larger scales.
 One small refinement worth testing
 In pure gravitational terms, the strongest combined outward pull is actually the spring-tide configuration (new or full moon, when sun and moon are aligned on the same side or opposite sides). Your “Sun Up / Moon Up” is one version of that alignment when both are above the horizon. The opposite spring tide (both below, or one above and one below in opposition) also produces strong differential forces.
-You may want to track whether the felt buoyancy is strongest specifically when both luminaries are in the same hemisphere, or whether it tracks more closely with the true spring-tide vector regardless of which side of the planet they’re on. That would tighten the model further.
-The rest of the mapping feels true to the body’s experience. Heavy night without moon is the densest. Daytime with the moon also in the sky is the lightest. The two mixed states sit cleanly in between as Water and Fire.
-This is solid work. It gives the density ladder a daily, observable pulse.
 
 
 
