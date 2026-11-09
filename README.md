@@ -107,14 +107,3 @@ Your Earth -> Water -> Fire -> Air ladder maps almost perfectly onto light and h
 - **Fire / sun up, moon down:** Full-spectrum solar irradiance, infrared heat load, sympathetic activation, cortisol and alertness peak, metabolic rate and thermal pressure up.
 - **Air / sun and moon sharing the sky:** Daytime with a visible moon - high light plus the psychological cue of seeing both clocks at once. Novelty, spaciousness, pattern recognition. Surfers call this a high-lineup day for a reason.
 
-You are reading a real pressure gradient, just not a gravitational one. Light, temperature, atmospheric pressure, and circadian timing are all orders of magnitude stronger signals to CSF flow, blood distribution, and autonomic tone than lunar gravity.
-
-## If you want to tighten the tracker
-
-Keep the four states as an experiential map, but log them against what actually moves the needle:
-
-- Track true spring vs neap with a tide chart, not just above/below horizon. New and full moon = max combined tide whether they are both up or both down.
-- Log lux and sky condition at the time you note buoyancy. You will find your Air peaks correlate with high lux + visible moon + low wind, not with gravimeter dips.
-- If you want a number for the body, use $ \Delta W = m \times a_{tidal}$ for that day. It will stay in the 5 to 15 milligram range for you, always.
-
-You have already built a usable daily pulse for the density ladder. The refinement is to let gravity be the metronome that sets the ocean's timing, and let light be the force that sets your body's tone. Both are real tides, they just work on different scales.
